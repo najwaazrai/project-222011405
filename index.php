@@ -17,7 +17,7 @@ header("Location: Login.php");}
 	</div>
 </div>
 <nav class="navlink">
-	<a href="#">BERANDA</a>
+	<a href="#">LAMAN UTAMA</a>
 	<a href="Kegiatan.php">KEGIATAN</a>
 	<a href="Dokumen.php">DOKUMEN</a>
 	<a href="Anggota.php">ANGGOTA</a>
