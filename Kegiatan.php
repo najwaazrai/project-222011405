@@ -33,7 +33,7 @@
         </nav>
     </div>
 <form action="">
-      <label >Cari nama Kegiatan: </label>
+      <label >Cari berdasarakan nama Kegiatan: </label>
       <br>
       <input type="text" id="txt1" onkeyup="showHint()">
 </form>
