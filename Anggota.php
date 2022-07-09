@@ -42,9 +42,9 @@ try {
 <?php
 $tb = "<table class='view'><tr>
 	<th>Nama Anggota</th>
-	<th>Kelas</th>
-	<th>Divisi</th>
-	<th>Jabatan</th>
+	<th>Kelas Anggota</th>
+	<th>Divisi Anggota</th>
+	<th>Jabatan Anggota</th>
     
 	</tr>";
 while ($row = $stmt->fetch_assoc()) {
